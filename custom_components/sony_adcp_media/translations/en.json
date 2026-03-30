@@ -1,0 +1,32 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Sony ADCP Media Player",
+        "description": "Configure a Sony projector using ADCP over TCP.",
+        "data": {
+          "host": "Host",
+          "name": "Name",
+          "port": "Port",
+          "password": "Password",
+          "community": "Community (4 chars)",
+          "sources": "Sources (comma-separated)"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Sony ADCP Media Player Options",
+        "data": {
+          "name": "Name",
+          "port": "Port",
+          "password": "Password",
+          "community": "Community (4 chars)",
+          "sources": "Sources (comma-separated)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+DOMAIN = "sony_adcp_media"
+
+CONF_COMMUNITY = "community"
+CONF_SOURCES = "sources"
+
+DEFAULT_NAME = "Sony Projector"
+DEFAULT_PORT = 53595
+DEFAULT_COMMUNITY = "SONY"
+DEFAULT_SOURCES = ["hdmi1"]
+
+UPDATE_INTERVAL_SECONDS = 10
