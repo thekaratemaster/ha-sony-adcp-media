@@ -2,9 +2,9 @@
   "domain": "sony_adcp_media",
   "name": "Sony ADCP Media Player",
   "version": "1.0.0",
-  "documentation": "https://github.com/your-repo-or-notes",
+  "documentation": "https://github.com/thekaratemaster/ha-sony-adcp-media",
   "config_flow": true,
   "iot_class": "local_polling",
   "requirements": [],
-  "codeowners": []
+  "codeowners": ["@thekaratemaster"]
 }
